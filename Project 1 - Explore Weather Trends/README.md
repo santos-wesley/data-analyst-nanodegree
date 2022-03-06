@@ -1,5 +1,5 @@
 # Exploring Weather Trends Project
-![alt text](https://github.com/santos-wesley/udacity-data-analyst-nanodegree/blob/main/Project 1 - Explore Weather Trends/images/earth.png?raw=true)
+![alt text](https://raw.githubusercontent.com/santos-wesley/udacity-data-analyst-nanodegree/main/Project%201%20-%20Explore%20Weather%20Trends/images/earth.png)
 ## Summary
 
 The goal of this project is to analyze local and global temperature data and compare temperature trends. I chose Brazil as the country to be compared with the overall.
