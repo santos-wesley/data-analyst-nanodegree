@@ -1,11 +1,6 @@
 # Udacity Data Analyst Nanodegree
 
-<object data="https://graduation-api.udacity.com/api/certificate/G7GGMACU/download" type="application/pdf" width="700px" height="700px">
-    <embed src="https://graduation-api.udacity.com/api/certificate/G7GGMACU/download">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://graduation-api.udacity.com/api/certificate/G7GGMACU/download">Download PDF</a>.</p>
-    </embed>
-
-</object>
+![Certificate :)] (https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/7f2ac8b5-c013-4c27-b210-e223b8201e32.svg)
 
 ## Summary
 
