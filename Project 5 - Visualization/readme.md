@@ -11,10 +11,10 @@ This work focused on the analysis of the Prosper Loan Data. The analysis covered
 ## Tools
 
 To achieve the goals of this project the following libraries from Python were used:
-• numpy
-• matplotlib
-• pandas
-• seaborn
+* numpy
+* matplotlib
+* pandas
+* seaborn
 
 ## Dataset
 
