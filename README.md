@@ -4,4 +4,4 @@
 
 ## Summary
 
-This repository contains the projects developed under the Udacity Data Analyst Nanodegree course. Every folder contains the readme explaining every projec.
+This repository contains the projects developed under the Udacity Data Analyst Nanodegree course. Every folder contains the readme file regarding the project.
